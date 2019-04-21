@@ -1,0 +1,8 @@
+->To run the program, you can go to the deployed web app @ https://topic-teller1.herokuapp.com/
+
+->In case you want to run it in offline mode, instruction(ubuntu 18.04 ):
+
+-> get into the folder named 'deployment'
+-> run the following command in terminal: "sudo python3 run_server.py"
+-> It should give you a localhost address, go to that address to use the microservice.
+-> Please make sure you use python3, other requirements are listed in requirements.txt
